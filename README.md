@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heanohh
+- 👋 Hi, I’m @belanoh
 - 👀 I’m interested in ...AI & robotics
 - 🌱 I’m currently learning ...Mechanical Engineering in Ewha Womans Univ.
 - 💞️ I’m looking to collaborate on ...various Ai projects. 
